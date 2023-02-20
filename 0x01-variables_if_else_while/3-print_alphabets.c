@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * main - prints alpha in lower and upper case
  * Return: Always 0
